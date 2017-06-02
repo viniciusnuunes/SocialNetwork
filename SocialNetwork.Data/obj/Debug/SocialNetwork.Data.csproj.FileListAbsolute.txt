@@ -1,0 +1,17 @@
+C:\Users\vinicius.nunes\Documents\Visual Studio 2017\Projects\PROJETO DE BLOCO\SocialNetwork\SocialNetwork.Data\bin\Debug\SocialNetwork.Data.dll
+C:\Users\vinicius.nunes\Documents\Visual Studio 2017\Projects\PROJETO DE BLOCO\SocialNetwork\SocialNetwork.Data\bin\Debug\SocialNetwork.Data.pdb
+C:\Users\vinicius.nunes\Documents\Visual Studio 2017\Projects\PROJETO DE BLOCO\SocialNetwork\SocialNetwork.Data\bin\Debug\SocialNetwork.Data.pri
+C:\Users\vinicius.nunes\Documents\Visual Studio 2017\Projects\PROJETO DE BLOCO\SocialNetwork\SocialNetwork.Data\obj\Debug\SocialNetwork.Data.csprojResolveAssemblyReference.cache
+C:\Users\vinicius.nunes\Documents\Visual Studio 2017\Projects\PROJETO DE BLOCO\SocialNetwork\SocialNetwork.Data\obj\Debug\SocialNetwork.Data.dll
+C:\Users\vinicius.nunes\Documents\Visual Studio 2017\Projects\PROJETO DE BLOCO\SocialNetwork\SocialNetwork.Data\obj\Debug\SocialNetwork.Data.pdb
+C:\Users\vinicius.nunes\Documents\Visual Studio 2017\Projects\PROJETO DE BLOCO\SocialNetwork\SocialNetwork.Data\obj\Debug\priconfig.xml
+C:\Users\vinicius.nunes\Documents\Visual Studio 2017\Projects\PROJETO DE BLOCO\SocialNetwork\SocialNetwork.Data\obj\Debug\priconfig.xml.intermediate
+C:\Users\vinicius.nunes\Documents\Visual Studio 2017\Projects\PROJETO DE BLOCO\SocialNetwork\SocialNetwork.Data\obj\Debug\layout.resfiles
+C:\Users\vinicius.nunes\Documents\Visual Studio 2017\Projects\PROJETO DE BLOCO\SocialNetwork\SocialNetwork.Data\obj\Debug\layout.resfiles.intermediate
+C:\Users\vinicius.nunes\Documents\Visual Studio 2017\Projects\PROJETO DE BLOCO\SocialNetwork\SocialNetwork.Data\obj\Debug\resources.resfiles
+C:\Users\vinicius.nunes\Documents\Visual Studio 2017\Projects\PROJETO DE BLOCO\SocialNetwork\SocialNetwork.Data\obj\Debug\resources.resfiles.intermediate
+C:\Users\vinicius.nunes\Documents\Visual Studio 2017\Projects\PROJETO DE BLOCO\SocialNetwork\SocialNetwork.Data\obj\Debug\pri.resfiles
+C:\Users\vinicius.nunes\Documents\Visual Studio 2017\Projects\PROJETO DE BLOCO\SocialNetwork\SocialNetwork.Data\obj\Debug\pri.resfiles.intermediate
+C:\Users\vinicius.nunes\Documents\Visual Studio 2017\Projects\PROJETO DE BLOCO\SocialNetwork\SocialNetwork.Data\obj\Debug\qualifiers.txt
+C:\Users\vinicius.nunes\Documents\Visual Studio 2017\Projects\PROJETO DE BLOCO\SocialNetwork\SocialNetwork.Data\obj\Debug\qualifiers.txt.intermediate
+C:\Users\vinicius.nunes\Documents\Visual Studio 2017\Projects\PROJETO DE BLOCO\SocialNetwork\SocialNetwork.Data\obj\Debug\MultipleQualifiersPerDimensionFound.txt
